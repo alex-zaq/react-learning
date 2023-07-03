@@ -38,7 +38,7 @@
     color: #e5383b
 }
 
-.list-group-item .fa-start {
+.list-group-item .fa-star {
     width: 35px;
     height: 35px;
     text-align: center;
@@ -60,6 +60,6 @@
     color: #e09f3e
 }
 
-.list-group-teim.increase .btn-star {
+.list-group-item.increase .btn-star {
     color: #aeaeae
 }
